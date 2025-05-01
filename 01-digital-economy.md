@@ -157,3 +157,53 @@ Yet, fiat currencies are highly dependent on centralized issuers.
 They are often not portable across jurisdictions without significant barriers, and they are extremely vulnerable to inflationary policies worldwide.
 Bitcoin, by contrast, excels across all three dimensions.
 Its decentralized protocol is resistant to government interference, it is absolutely scarce—a topic we will explore in future lectures—and it is natively divisible, enabling the implementation of perfect money substitutes through mechanisms like payment channels, e-cash, and sidechains.
+
+## Banks as IOU Engines: A Layer Above Money
+
+As trade expanded and precious metals like gold and silver became more widely used as money, practical difficulties began to emerge.
+Large transactions were cumbersome, requiring heavy and often insecure physical transfers of coins or bullion.
+Verifying the authenticity and weight of every coin in circulation was not only time-consuming but fraught with risk, especially in regions where coin debasement or clipping was common.
+Merchants conducting business across cities or countries faced the added burden of dealing with a bewildering variety of local coinages with differing metallic contents and values.
+To solve these problems, early banking institutions arose as a layer above money—initially offering secure storage for precious metals and later providing more efficient payment mechanisms through book-entry transfers and bank-issued notes​.
+
+Banks made trade more efficient by formalizing the issuance of IOUs.
+When an individual deposited gold into a bank, the bank issued a certificate representing the right to withdraw that amount of gold later.
+These certificates—or banknotes—were easier to carry and transfer.
+Over time, people began trading the banknotes directly, rather than redeeming them after each transaction.
+What had started as a simple receipt for stored metal evolved into a widely accepted medium of exchange.
+Even today, when we check our bank balance, we are not seeing the amount of money we own, but rather the amount the bank owes us.
+The relationship remains one of creditor and debtor, where the banknote or digital balance is just a promise that the bank will honor redemptions when demanded.
+
+To illustrate, let us return to Alice and Bob.
+Suppose Alice deposits gold at the Dollarhaus bank and, in return, receives paper bills denominated in dollars, which represent claims on a specific amount of gold.
+Later, Alice visits Bob at the market and offers him a few of these bills in exchange for a basket of carrots.
+Bob accepts the payment and, curious about the backing of the bills, visits the issuing bank.
+There, he presents the bills and receives gold from the bank's reserves.
+Through this process, we see that no physical gold needed to change hands during Alice and Bob's transaction.
+The bank-issued bills served as a convenient medium, while the underlying gold remained safely stored until redemption was requested.
+
+This transformation—from using physical gold to trading paper notes redeemable for gold—marks the emergence of what Ludwig von Mises called "money substitutes."
+These banknotes are not money themselves;
+they are representations of money, issued against real reserves held by the bank.
+Their usefulness lies in the fact that, at the time of their issuance, they could be redeemed on demand for actual money.
+They served the same function as the underlying good in facilitating trade and settlement, but without the inconvenience of carrying and verifying the metal itself.
+What makes this possible is the legally binding nature of the bank promise:
+the note issuer enters into a contract to return the underlying asset to whoever presents it.
+In the early stages of banking, this obligation was enforced primarily by reputation and the threat of failure.
+Over time, it gained formal legal standing and, in many cases, became backed or regulated by the state.
+In this sense, money substitutes operate as temporary stand-ins that streamline transactions while still being tightly linked to the monetary base.
+
+In more complex economies, the system evolved further.
+Suppose Bob prefers not to redeem the bills for gold directly.
+Instead, he visits his own bank, Euroloft, and deposits the dollar-denominated bills he received from Alice.
+Euroloft credits his account, and behind the scenes, the two banks later settle their obligations.
+This might involve transferring gold or adjusting their mutual balances.
+Over time, banks formed clearinghouses and cooperative agreements to streamline this process.
+This allowed even currency conversion—for example, Bob could exchange dollars for euros if the banks involved held reserves in both currencies and trusted each other’s solvency.
+In effect, the banking system built an interconnected layer atop the physical gold reserves.
+
+Eventually, as banknotes and later digital entries became widely accepted, the need to redeem them for physical gold diminished.
+If Bob knows that the bills he received are broadly accepted in the market, he may prefer to spend them again rather than reclaim the gold they represent.
+The same bill might change hands dozens of times before anyone seeks redemption.
+Redemption becomes necessary only when the neutrality of gold is essential—for instance, in international trade or when doubts arise about a bank’s solvency.
+This widespread acceptance of paper, independent of frequent physical settlement, is what made banking systems so powerful—and, as we will see, also vulnerable to overreach and abuse.
