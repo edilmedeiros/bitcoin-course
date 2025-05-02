@@ -136,7 +136,8 @@ It is not that spears became more valuable;
 rather, the stones lost their purchasing power.
 This phenomenon, known as inflation, was historically observed when the influx of gold and silver from the Americas into Europe eroded the value of existing currencies.
 Inflation is not neutral:
-those who first receive new money can purchase goods before prices adjust, gaining an unfair advantage.
+those who first receive new money can purchase goods before prices adjust, gaining an unfair advantage. 
+This is called the Cantillon Effect.
 Since governments always tried to control currency, they were always in a privileged position when we talk about inflation.
 
 Finally, a good medium of exchange must function well across different transaction scales.
@@ -332,3 +333,5 @@ Ludwig von Mises, The Theory of Money and Credit, 1912.
 Murray Rothbard, What Has Government Done to Our Money?, 1963.
 
 Nick Szabo, "Shelling Out: The Origins of Money," 2002.
+
+(The Cantillon Effect: Because of Inflation, We’re Financing the Financiers)[https://fee.org/articles/the-cantillon-effect-because-of-inflation-we-re-financing-the-financiers/]
