@@ -13,7 +13,7 @@ Alice is an electronics teacher, offering specialized lessons to those intereste
 Bob, on the other hand, is a farmer who grows carrots.
 One day, Alice goes to Bob in a fair and offers an introductory lecture about the problems of money and how Bitcoin addresses them in return for a some carrots. At first glance, the exchange seems promising.
 Carrots are nutritious food, and knowledge is a valuable asset.
-Bob has been hearing about Bitcoin quite frequently lately and was interesting in understanding the technology to expand his business.
+Bob has been hearing about Bitcoin quite frequently lately and was interested in understanding the technology to expand his business.
 The next day, Bob comes to Alice's lecturing room and is delighted with an enlightening lecture.
 He promptly hands Alice a basket of freshly harvested carrots and the economic transaction between them is done.
 
@@ -218,7 +218,7 @@ When Alice makes a payment, the bank doesn’t hand over physical cash or gold;
 it updates its internal ledger.
 It deducts the value from Alice’s account and credits the same amount to Bob’s.
 Moments later, Bob’s bank notifies him that the payment has been received and his balance adjusted.
-That's when he knows he can handle the basket of fresh carrots to Alice;
+That's when he knows he can hand the basket of fresh carrots to Alice;
 the exchange is finished.
 
 In this system, the act of paying is entirely symbolic—a coordinated update to digital records.
