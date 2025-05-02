@@ -93,7 +93,7 @@ Each lecture will follow a consistent format:
 ## References
 
 Main references for the material include:
-- A. Antonopoulos, *[Mastering Bitcoin: Programming the Open Blockchain](https://github.com/bitcoinbook/bitcoinbook)*, 3rd ed., O'Reilly Media, 2024.
+- A. Antonopoulos, D. Harding, *[Mastering Bitcoin: Programming the Open Blockchain](https://github.com/bitcoinbook/bitcoinbook)*, 3rd ed., O'Reilly Media, 2023.
 - J. Song, *[Programming Bitcoin: Learn How to Program Bitcoin from Scratch](https://programmingbitcoin.com/programming-bitcoin-book/)*, O'Reilly Media, 2019.
 - K. Rosenbaum, *[Grokking Bitcoin](https://github.com/kallerosenbaum/grokkingbitcoin)*, Manning Publications, 2019.
 - [Bitcoin Improvement Proposals](https://github.com/bitcoin/bips) (BIPs).
