@@ -6,7 +6,7 @@ Rather, we are interested in understanding how money has been abstracted through
 Our focus is practical:
 by the end of this discussion, we want a clear sense of the problems Bitcoin was designed to address.
 
-## Trading without Money is Hard
+## Why Trade Needs Money
 
 Imagine two individuals, Alice and Bob.
 Alice is an electronics teacher, offering specialized lessons to those interested in learning about circuits, semiconductors, and signal processing.
@@ -101,7 +101,7 @@ For an asset to be considered money, it must become the most marketable intermed
 As Carl Menger explains in On the Origins of Money, money emerges not by decree but through a gradual process where individuals gravitate toward goods that possess superior qualities of marketability.
 We will talk about these qualities next.
 
-## Qualities of a good medium of exchange
+## What Makes Good Money
 
 To understand why some goods thrive as mediums of exchange while others fail, we must consider how well they perform across three critical dimensions:
 space, time, and scale.
@@ -208,7 +208,7 @@ The same bill might change hands dozens of times before anyone seeks redemption.
 Redemption becomes necessary only when the neutrality of gold is essential—for instance, in international trade or when doubts arise about a bank’s solvency.
 This widespread acceptance of paper, independent of frequent physical settlement, is what made banking systems so powerful—and, as we will see, also vulnerable to overreach and abuse.
 
-## Communication Protocols as Money Substitutes
+## Digital Messaging as Money
 
 Let’s revisit Alice and Bob.
 This time, Alice opens an account at her bank and receives a plastic card linked to it—a credit or debit card.
