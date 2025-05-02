@@ -131,7 +131,7 @@ Goods like fresh produce or cigarettes, although used as money in extreme circum
 Durability is crucial, but so is scarcity:
 the medium must not be easily reproducible, otherwise saving is undermined by inflation.
 To illustrate, consider an economy with 50 stones used as money and 10 spears available for trade.
-If each spear costs 5 stones on average, and suddenly someone finds a mine producing 50 additional stones, the average price of spears would fall to 2 stones.
+If each spear costs 5 stones on average, and suddenly someone finds a mine producing 50 additional stones, the average price of spears would increase to 10 stones.
 It is not that spears became more valuable;
 rather, the stones lost their purchasing power.
 This phenomenon, known as inflation, was historically observed when the influx of gold and silver from the Americas into Europe eroded the value of existing currencies.
