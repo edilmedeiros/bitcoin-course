@@ -207,3 +207,61 @@ If Bob knows that the bills he received are broadly accepted in the market, he m
 The same bill might change hands dozens of times before anyone seeks redemption.
 Redemption becomes necessary only when the neutrality of gold is essential—for instance, in international trade or when doubts arise about a bank’s solvency.
 This widespread acceptance of paper, independent of frequent physical settlement, is what made banking systems so powerful—and, as we will see, also vulnerable to overreach and abuse.
+
+## Communication Protocols as Money Substitutes
+
+Let’s revisit Alice and Bob.
+This time, Alice opens an account at her bank and receives a plastic card linked to it—a credit or debit card.
+With this card, Alice can now initiate electronic payments by signing digital messages that instruct her bank to transfer a portion of her balance to Bob's account.
+When Alice makes a payment, the bank doesn’t hand over physical cash or gold;
+it updates its internal ledger.
+It deducts the value from Alice’s account and credits the same amount to Bob’s.
+Moments later, Bob’s bank notifies him that the payment has been received and his balance adjusted.
+That's when he knows he can handle the basket of fresh carrots to Alice;
+the exchange is finished.
+
+In this system, the act of paying is entirely symbolic—a coordinated update to digital records.
+These book-entry transfers mean that the money itself does not move.
+Instead, what circulates are signed messages and account updates, and the integrity of this process depends entirely on the trust placed in the banks managing these ledgers.
+The digital message—“transfer $20 from Alice to Bob”—serves the same function as the gold-backed banknote once did:
+a medium of exchange that is accepted because the participants trust the system to settle accounts reliably.
+As long as people are willing to accept these updates as settlement, they function as money substitutes.
+But now, the medium is not metal or paper—it is a coordinated messaging protocol embedded in the architecture of banking.
+
+This shift continues the long process of monetary abstraction.
+We moved from a physical asset—gold—to a redeemable paper note that represented a claim on that asset.
+The banknote was an IOU, and its issuance was disciplined by the need to maintain a credible promise of redemption.
+It still bore essential characteristics of the physical medium it replaced:
+when someone handed over a banknote, it was self-evident that they possessed the funds, and once the note changed hands, it could not be reused by the spender.
+These were built-in assurances—ownership and finality—that came naturally with physical money, whether metal or paper.
+
+As money becomes digital, however, these assurances are no longer inherent.
+Digital representations of money can be copied or manipulated unless specific mechanisms are in place.
+In this more abstract realm, we must explicitly design systems to prove that the sender has sufficient funds and to prevent double spending.
+These are no longer physical properties but engineering challenges.
+
+Banks solve these problems by serving as intermediaries.
+They are no longer merely custodians of money;
+they actively manage ledgers, authorize payments, and guarantee settlement between accounts.
+Their role has expanded as money has become more abstract.
+As Lawrence White explains in Better Money, banks have historically evolved from passive warehouses into financial engines that provide liquidity, manage payment systems, and extend credit.
+Their ability to maintain accurate records and resolve disputes has made them indispensable—but also powerful.
+
+And herein lies a problem.
+In today's economy, we can hardly perform any transaction without the participation of a third party.
+In technical terms, the bank is a single point of failure.
+If it fails, misbehaves, or becomes compromised, the entire system falters.
+This vulnerability is especially concerning because money is not just any good—it is the good that facilitates nearly all others.
+Banks may be corrupted in various ways:
+by negligent bankers, malicious insiders, software bugs, or coercion by state authorities.
+The more abstract money becomes, the more central and fragile these intermediaries become.
+
+It’s worth pausing to recognize how strange this arrangement really is.
+Bob is accepting payment not in gold, not even in paper bills, but in the form of a message—words, essentially—delivered through a communication network.
+And yet, that message is accepted as money because it comes with the bank’s authority and is reflected as a new number in Bob’s account balance.
+This is not the first time we've accepted such a leap of abstraction:
+earlier, people grew accustomed to using paper banknotes that merely represented underlying gold, and those notes came to be treated as if they were the gold itself.
+Today, the same transformation has occurred again.
+The messages transmitted between banks and the balances they report feel almost indistinguishable from real money.
+We have already made peace with the idea that money can be abstract, symbolic, and entirely dependent on the integrity of a communication protocol.
+
