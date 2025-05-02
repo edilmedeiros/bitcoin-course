@@ -318,3 +318,17 @@ Decentralization of money is also the decentralization of the decision of what t
 
 It's up to you to decide if Bitcoin is money.
 And I hope this course will help you do so.
+
+## References
+
+Lawrence H. White, Better Money: Gold, Fiat, or Bitcoin?, Cambridge University Press, 2023.
+
+F. A. Hayek, The Denationalization of Money: The Argument Refined, Institute of Economic Affairs, 1978.
+
+Carl Menger, On the Origins of Money, 1892.
+
+Ludwig von Mises, The Theory of Money and Credit, 1912.
+
+Murray Rothbard, What Has Government Done to Our Money?, 1963.
+
+Nick Szabo, "Shelling Out: The Origins of Money," 2002.
